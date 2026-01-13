@@ -3,7 +3,6 @@ A simple python applicaton to send bulk e-mails.
 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## 🚀 Features
 
